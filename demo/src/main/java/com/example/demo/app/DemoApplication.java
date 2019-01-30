@@ -3,6 +3,8 @@ package com.example.demo.app;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+//comment for GIT
 @SpringBootApplication
 public class DemoApplication {
 
